@@ -1,4 +1,4 @@
-package br.com.oo.java.introducao;
+package br.com.oo.java.introducao.application;
 
 import java.util.Locale;
 import java.util.Scanner;

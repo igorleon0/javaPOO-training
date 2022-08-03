@@ -1,6 +1,6 @@
 package br.com.heranca.e.polimorfismo;
 
-import br.com.oo.java.introducao.entities.BusinessAccount;
+import br.com.oo.java.introducao.BusinessAccount;
 
 public class Program {
 

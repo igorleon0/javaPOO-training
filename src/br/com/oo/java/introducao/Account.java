@@ -1,4 +1,4 @@
-package br.com.oo.java.introducao.entities;
+package br.com.oo.java.introducao;
 
 public class Account {
 

@@ -1,7 +1,9 @@
-package br.com.conta.bancaria;
+package br.com.conta.bancaria.application;
 
 import java.util.Locale;
 import java.util.Scanner;
+
+import br.com.conta.bancaria.entities.Conta;
 
 public class ProgramConta {
 
