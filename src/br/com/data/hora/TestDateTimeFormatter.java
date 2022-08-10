@@ -16,8 +16,7 @@ public class TestDateTimeFormatter {
 
 		DateTimeFormatter formatter01 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 		DateTimeFormatter formatter02 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
-		DateTimeFormatter formatter03 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm")
-				.withZone(ZoneId.systemDefault());
+		DateTimeFormatter formatter03 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm").withZone(ZoneId.systemDefault());
 		DateTimeFormatter formatter04 = DateTimeFormatter.ISO_DATE_TIME;
 		DateTimeFormatter formatter05 = DateTimeFormatter.ISO_INSTANT;
 
